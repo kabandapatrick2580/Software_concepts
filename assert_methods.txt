@@ -1,0 +1,5 @@
+open Python interactive mode
+type:
+    >>> import unittest
+    >>>help(unittest.TestCase.assertSetEqual)
+or type in any other method other assertSetEqual
